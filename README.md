@@ -10,6 +10,5 @@ I mostly work with Android and MVC Frameworks. 🚀
 
 ### 📫 How to reach me?
 
- - Visit my [Website] 🌐
- - Connect with me on [LinkedIn](www.linkedin.com/in/prabhujyot-singh-bamrah-88535138) 👨🏻‍💻
- - Shoot Me an [Email](prabhujyotsingh.bamrah@gmail.com) 💌
+- Connect with me on [LinkedIn](www.linkedin.com/in/prabhujyot-singh-bamrah-88535138) 👨🏻‍💻
+- Shoot Me an [Email](prabhujyotsingh.bamrah@gmail.com) 💌
